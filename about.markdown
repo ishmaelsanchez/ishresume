@@ -8,7 +8,8 @@ permalink: /about/
 
 <p>I'm an authority on development restructuring, technology standardization, large scale migrations, outsourcing and change and transformation management. I'm a proponent of growing team members and mentoring developers, project managers, product owners, business stakeholders and <a href="https://www.drupal.org/user/464624/people-mentored">Drupalers</a>.</p>
 
-<h3>Education </h3>
+<h2>Education </h2>
+<p>Udacity: Tech Entrepreneur Nanodegree Entrepreneurship/Entrepreneurial Studies.</p>
 <p>Bachelor of Science degree in Technical Management with a concentration in Computer Information Systems.</p>
 <p>Decorated Military Sergeant, served for six years in the United States Army. Graduate of the Primary Leadership Development Course. Served in Iraq as a Squad and Team leader. Purple heart and Combat Action Badge recipient.</p>
 
