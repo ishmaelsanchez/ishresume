@@ -1,5 +1,5 @@
 ---
-layout: portfolio
+layout: page
 title: Portfolio
 description: Lead for multiple concurrent. projects. Involved in all stages of web site/application creation from project meetings, client interaction, design and architecture, development, deployment, management, training and support.
 permalink: /portfolio/
