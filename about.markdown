@@ -18,5 +18,5 @@ permalink: /about/
 <p>  I've designed and developed 100's of Drupal-based sites. I'm a Drupal enthusiast and Drupal theme contributor. I designed and created the <a href="http://drupal.org/project/ishalist">Ishalist</a> and <a href="http://drupal.org/project/earthish">Earthish</a>  Drupal themes. Additionally, I maintain the <a href="http://drupal.org/project/aberdeen">Aberdeen</a> theme.</p>
 
 <h3>Affiliations</h3>
-<a href="https://www.drupal.org/user/464624" title="View my association page"><img src="/sites/default/files/drupal-individual-member.png" title="Drupal Individual Member" alt="Drupal Individual Member" /></a>
+<a href="https://www.drupal.org/user/464624" title="View my association page"><img src="/img/drupal-individual-member.png" title="Drupal Individual Member" alt="Drupal Individual Member" /></a>
 
