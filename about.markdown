@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Ishmael Sanchez
+title: About
 description: Over a decade of software development management experience. In-house teams, In-house remote teams, offshore, offshore landed, in-office contractors, remote contractors. I'm an authority on development restructuring, technology standardization, large scale migrations, outsourcing and change and transformation management.
 permalink: /about/
 ---
