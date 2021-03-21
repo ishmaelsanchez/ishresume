@@ -19,15 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ishmael Sanchez
-email: your-email@example.com
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Accomplished in developing, contracting and consulting on large scale web application and websites. 
-  Proficient with open source and enterprise content management systems. Experienced in a variety of industries 
-  Manufacturing, Media, Non-profits, Entertainment, Health/Wellness, Security, Education, Health Care with corporate and non-corporate clients.
+  An authority on development restructuring, technology standardization, large scale migrations, outsourcing and change and transformation management.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+linkedin_username: ishmaelsanchez
+github_username:  ishmaelsanchez
+twitter_username: ishmaelsanchez
+
 
 # Build settings
 theme: minima
