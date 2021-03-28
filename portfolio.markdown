@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 <p>Listed below is a sampling of some the companies and projects I've been involved with during my career:</p>
 <ul>
- <li>Work for FTSE 100-listed and World’s biggest exhibition operator, https://www.informamarkets.com. Global Tradeshow website platform development and management, Global media/publication platform development, directory listing systems maintenance.
+ <li>Work for FTSE 100-listed and World’s biggest exhibition operator, <a href="https://www.informamarkets.com">Informa Markets</a>. Global Tradeshow website platform development and management, Global media/publication platform development, directory listing systems maintenance.
 </li>
  <li>Manage costs associated with the outsourcing contracts for 2019-2021 of upwards of 1.5 million US. Involved in contract negotiations, accountability and oversight.
 </li>
@@ -31,7 +31,6 @@ permalink: /portfolio/
    </ul>
  </li>
  <li>Small business websites: for artists (bands, photographers, actors) using open source technologies</li>
- <li>Independent contracting for 5 years 
- <li>Ninjitsu Web Development, lead a small team of contractors on top of doing development. Business development and client management. 
-</li>
+ <li>Independent contracting for 5 years </li>
+ <li>Ninjitsu Web Development, lead a small team of contractors on top of doing development. Business development and client management.</li>
 </ul>
