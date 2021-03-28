@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Articles
-description: Involved in nearly every aspect of web site/application creation from project kick-off meetings, client interaction, design and architecture, development, deployment, management, platform development, scaling, training and support.
+description:  General tips about web development and design that may be helpful to anyone with a website.
 permalink: /articles/
 ---
 <p>From time to time I've posted ideas and general tips about web development and design that may be helpful to anyone with a website. It's also been
