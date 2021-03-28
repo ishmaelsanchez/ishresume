@@ -7,7 +7,7 @@ date:   2009-06-17 13:14:24 -0400
 Updating things like a footer or copyright statement seem trivial, but if you have a Dreamweaver site, this could mean updating hundreds or thousands of files.
 If you created the site correctly, all you have to do is edit one library file to update the text.
 
-However, you will still have to FTP the files and ensure nothing gets overwritten in the process. Or worse, if you failed to use templates and library files, you will have to manually edit those pages; <em>not cool</em>.
+<p>However, you will still have to FTP the files and ensure nothing gets overwritten in the process. Or worse, if you failed to use templates and library files, you will have to manually edit those pages; <em>not cool</em>.</p>
 
 <p>A better and long term solution would be to have the date dynamically created, that way you never have to worry about this update, ever. Besides saving you time and possibly headaches, it's also a good idea to use this approach because it shows a high level of professionalism and shows clients that you have the future of 
 their site in mind.</p>
