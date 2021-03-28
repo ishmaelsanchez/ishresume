@@ -2,7 +2,7 @@
 layout: post
 title: Earthish
 description: Contributed Drupal theme has earth tone based colors and is an end user theme targeted at bloggers or small businesses. Built for websites that want to be more horizontally orientated.
-categories: drupal
+permalink: /earthish/
 ---
 
 <p>The <a href="http://drupal.org/project/earthish">earthish theme</a> is a contributed Drupal theme and is built for websites that want to be more horizontally orientated.</p>
