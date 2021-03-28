@@ -12,8 +12,9 @@ However, you will still have to FTP the files and ensure nothing gets overwritte
 
 <p>A better and long term solution would be to have the date dynamically created, that way you never have to worry about this update, ever. Besides saving you time and possibly headaches, it's also a good idea to use this approach because it shows a high level of professionalism and shows clients that you have the future of 
 their site in mind.</p>
-<div id="caption"><img src="/sites/default/files/dw-library.gif" alt="Dreamweaver Library Item" title="Dreamweaver Library Item"  /><br />
-Example of a Dreamweaver Library Item</div>
+<!-- <img src="/sites/default/files/dw-library.gif" alt="Dreamweaver Library Item" title="Dreamweaver Library Item"  /><br /> -->
+
+Example of a Dreamweaver Library Item
 <p>One simple way to do this is using PHP. This code displays a copyright symbol and the current year: </p>
 
 {% highlight ruby %}
