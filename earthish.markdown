@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Earthish
 description: Contributed Drupal theme has earth tone based colors and is an end user theme targeted at bloggers or small businesses. Built for websites that want to be more horizontally orientated.
 ---
