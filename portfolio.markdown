@@ -12,14 +12,14 @@ permalink: /portfolio/
 </li>
  <li>Manage costs associated with the outsourcing contracts for 2019-2021 of upwards of 1.5 million US. Involved in contract negotiations, accountability and oversight.
 </li>
- <li>FTSE 250 listed http://ubm.com Marketing events and media platform development for North America using Drupal</li>
+ <li>Employed by FTSE 250 listed http://ubm.com Marketing events and media platform development for North America using Drupal</li>
  <li>Agile sprint team development: improving velocity and team output</li>
  <li>Enterprise websites and systems for: 
    <ul>
      <li>GDC conference</li>
      <li>Interop</li>
      <li>Catersource</li>
-     <li>CPhI North America website</li>
+     <li>CPhI North America</li>
      <li>Enterprise Connect</li>
      <li>Network Computing</li>
      <li>Warners Bros</li>
