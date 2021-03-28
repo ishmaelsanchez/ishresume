@@ -23,7 +23,7 @@ Example of a Dreamweaver Library Item
 
 <p>This idea can be used with other programming languages, for example JavaScript. </p>
 <p>On Drupal sites, you can add this code to a <strong>footer block</strong> or to the <strong>page.tpl.php</strong>. Adding the code to <code>/admin/settings/site-information</code> will not work because PHP isn't allowed.</p>
-<div id="caption"><img src="/sites/default/files/d-siteinfo.gif" alt="Footer Output" title="Footer Output"  /><br />Footer Output</div>
+<img src="/sites/default/files/d-siteinfo.gif" alt="Footer Output" title="Footer Output"  /><br />Footer Output
 
 
 
