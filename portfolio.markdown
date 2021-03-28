@@ -8,11 +8,11 @@ permalink: /portfolio/
 
 <p>Listed below is a sampling of some the companies and projects I've been involved with during my career:</p>
 <ul>
- <li>Work for FTSE 100-listed and World’s biggest exhibition operator, <a href="https://www.informamarkets.com">Informa Markets</a>. Global Tradeshow website platform development and management, Global media/publication platform development, directory listing systems maintenance.
+ <li>Work for FTSE 100-listed and World’s biggest exhibition operator, <a href="https://www.informamarkets.com">Informa Markets</a>. Global tradeshow website platform development and management, global media/publication platform development, directory listing system maintenance.
 </li>
  <li>Manage costs associated with the outsourcing contracts for 2019-2021 of upwards of 1.5 million US. Involved in contract negotiations, accountability and oversight.
 </li>
- <li>Employed by FTSE 250 listed http://ubm.com Marketing events and media platform development for North America using Drupal</li>
+ <li>Employed by FTSE 250 listed UBM. Marketing events and media platform development for North America using Drupal</li>
  <li>Agile sprint team development: improving velocity and team output</li>
  <li>Enterprise websites and systems for: 
    <ul>
