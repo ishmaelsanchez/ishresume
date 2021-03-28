@@ -13,10 +13,10 @@ permalink: /about/
 <p>Bachelor of Science degree in Technical Management with a concentration in Computer Information Systems.</p>
 <p>Decorated Military Sergeant, served for six years in the United States Army. Graduate of the Primary Leadership Development Course. Served in Iraq as a Squad and Team leader. Purple heart and Combat Action Badge recipient.</p>
 
-<h3>Drupal and open source work</h3>
-<p> I've worked as a freelance web designer/developer. During that time, my work is focused on creating web standard-compliant sites, quality designs with open sources tools and technology. I make websites using <a href="/drupal">Drupal</a> and <a href="/tags/dreamweaver">Dreamweaver</a>.  <a href="/drupal" title="Learn more about Drupal">What is Drupal? Find out now</a>.</p>
+<h3>Web, Drupal and open source work</h3>
+<p> I've worked as a freelance web designer/developer. During that time, my work is focused on creating web standard-compliant sites, quality designs with open sources tools and technology. I've created websites using <a href="/drupal">Drupal</a> and Dreamweaver.  <a href="/drupal" title="Learn more about Drupal">What is Drupal? Find out now</a>.</p>
    
-<p>  I've designed and developed 100's of Drupal-based sites. I'm a Drupal enthusiast and Drupal theme contributor. I designed and created the <a href="http://drupal.org/project/ishalist">Ishalist</a> and <a href="http://drupal.org/project/earthish">Earthish</a>  Drupal themes. Additionally, I maintain the <a href="http://drupal.org/project/aberdeen">Aberdeen</a> theme.</p>
+<p>  I've designed and developed 100's of Drupal-based sites. I'm a Drupal enthusiast and Drupal theme contributor. I designed and created the <a href="http://drupal.org/project/ishalist">Ishalist</a> and <a href="/earthish">Earthish</a>  Drupal themes. Additionally, I maintain the <a href="http://drupal.org/project/aberdeen">Aberdeen</a> theme.</p>
 
 <h3>Affiliations</h3>
 <a href="https://www.drupal.org/user/464624" title="View my association page"><img src="/img/drupal-individual-member.png" title="Drupal Individual Member" alt="Drupal Individual Member" /></a>
