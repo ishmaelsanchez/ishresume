@@ -21,7 +21,7 @@ date:   2010-11-28 02:27:17 -0700
   return '';<br />
   }</code></p>
 <div id="caption">
-<img src="/files/default-breadcrumb.gif" alt="Custom breadcrumb using a theme override" /><br /> Shows the breadcrumb that is output using the theme override.
+<img src="/img/default-breadcrumb.gif" alt="Custom breadcrumb using a theme override" /><br /> Shows the breadcrumb that is output using the theme override.
 </div>
 <p>With the theme_breadcrumb function we are customizing it to append the node title to the end of the breadcrumb. This is a good start, but to make the breadcrumb more useful we need to define a hierarchy.</p>
 <h2>Generate a custom breadcrumb trail</h2>
@@ -52,7 +52,7 @@ $vars['breadcrumb'] = theme('breadcrumb', ishalist_custom_breadcrumb($vars));<br
 }<br />
 }</code></p>
 <div id="caption">
-<img src="/files/custom-breadcrumb.gif" alt="Custom breadcrumb trail" /><br /> Final custom breadcrumb trail.
+<img src="/img/custom-breadcrumb.gif" alt="Custom breadcrumb trail" /><br /> Final custom breadcrumb trail.
 </div>
 <h3>Resources</h3>
 <ul>
