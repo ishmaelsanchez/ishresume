@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: Kick Back
 description: This is a band website to help fans stay in touch and connect with the members of the band. The site was built using the Drupal.
