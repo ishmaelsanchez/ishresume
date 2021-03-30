@@ -8,3 +8,4 @@ date:   2012-07-17 20:22:19 -0700
 
 <p>Decayed is a beautiful dark design with fixed width layout, a sidebar, a nice image header. 
 You can <a href="http://drupal.org/project/decayed">download the theme on Drupal.org</a></p>
+<img src="/img/decayed_drupal_screenshot.jpg" alt="Decayed Drupal theme" title="Decayed Drupal theme" />
