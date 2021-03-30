@@ -1,0 +1,11 @@
+---
+layout: post
+title: Journalist website
+description: I was lead developer for this project, which is a portfolio site for a journalist. I created the design and built a custom Drupal theme.
+permalink: /nate-berg/
+date:   2010-04-01 22:33:24 -0700
+---
+<p>I was lead developer for this project, which is a portfolio site for a journalist.</p>
+<p>I created the design and built a custom Drupal theme based on the client's input.
+I developed and defined the site architecture, assisted with building pages, performed Drupal customizations, Drupal security updates, and SEO configuration.</p>
+<img src="/img/nate-berg.jpg" alt="Nate Berg Journalist website" title="Nate Berg Journalist website" />
