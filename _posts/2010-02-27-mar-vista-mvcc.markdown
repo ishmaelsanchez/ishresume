@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mar Vista - MVCC
-description: I was lead developer for this project, which is a portfolio site for a journalist. I created the design and built a custom Drupal theme.
+description: I served as lead developer for the redesign of this website. Defined the Drupal architecture and created the custom sub-theme.
 permalink: /mar-vista-mvcc/
 date: 2010-02-27 15:23:26 -0700
 ---
