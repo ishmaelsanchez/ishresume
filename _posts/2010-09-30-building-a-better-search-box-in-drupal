@@ -1,0 +1,23 @@
+---
+layout: post
+title: Building a better search box in Drupal
+description: Drupal's built-in search module is a good starting point but if you have lots of nodes your site performance might take a hit.
+permalink: /building-better-search-box-drupal/
+date: 2010-09-30 16:44:22 -0700
+---
+
+<p>Depending on your website the search box might be a crucial element of your site.
+Ultimately having a functional and aesthetically pleasing search section is helpful to your end users.
+Drupal's built-in search module is a good starting point but if you have lots of nodes your site performance might take a hit. You can try using <a href="http://drupal.org/project/apachesolr">Apache Solr Search</a> or <a href="http://drupal.org/project/luceneapi">Search Lucene</a>.  Aside from the back-end configuration how does one theme the search box in Drupal?</p><p>Well you can theme the search section in multiple ways: search block (/admin/build/block/list), search page (/search), or the default theme implementation ($search_box). I'll be addressing the theme implementation. </p>
+<ol>
+	<li>Make sure in your page.tpl.php your theme prints out $search_box</li>
+  <li>Go to modules/search and copy search-theme-form.tpl.php and paste into your theme folder (In the comments there is code to see what's available to you in this template.)</li>
+  <li>Modify the output as needed</li>
+  <li>Add styles and interactivity.</li>
+</ol>
+<div id="caption">
+<img src="/img/example-search.gif" alt="Example Drupal search box">
+<br />
+Example search box
+</div>
+<p>Personally I like to remove the text, &quot;Search this site:&quot; increase the search box size. Additionally I think it's good idea to add some default text into the actual text field (i.e. Search by Keywords). Then using jQuery remove the text once a user clicks into the search text field and add the text back once they click off. You can finish out by adding some CSS. For example a light gradient, or 1px border, or a nice background.</p>
