@@ -2,6 +2,7 @@
 layout: post
 title:  "Dynamic Year Display Using PHP"
 date:   2009-06-17 13:14:24 -0400
+permalink: /dynamic-year-display-using-php/
 ---
  
 Updating things like a footer or copyright statement seem trivial, but if you have a Dreamweaver site, this could mean updating hundreds or thousands of files.
