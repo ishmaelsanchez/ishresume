@@ -5,7 +5,6 @@ date:   2010-11-28 02:27:17 -0700
 permalink: /custom-drupal-breadcrumb-cck-content-type/
 ---
 
-
 <p>Drupal breadcrumbs are a pain. By default they aren't the usable <a href="http://www.useit.com/alertbox/breadcrumbs.html">breadcrumb navigation</a> that people find helpful. On CCK node types they don't show any kind of site hierarchy; in fact by default they only show a link to the home page. The only place the breadcrumbs are helpful are on administrative pages. Yes, there are modules that help improve the breadcrumb system, but as a themer you can make it more usable with a few functions.</p>
 <h2>Output a custom breadcrumb</h2>
 <p>To do this we need to override the theme_breadcrumb function. If you don't have template.php file in your theme create one. Add to your template.php file the following function and clear your cache (change THEMENAME to the name of your actual theme).</p>
