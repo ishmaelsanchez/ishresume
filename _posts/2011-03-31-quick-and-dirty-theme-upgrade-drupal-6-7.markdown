@@ -2,6 +2,7 @@
 layout: post
 title:  "Quick and dirty theme upgrade from Drupal 6 to 7"
 date:   2011-03-31 23:34:24 -0700
+permalink: /quick-and-dirty-theme-upgrade-drupal-6-7/
 ---
 <p>Drupal 7 has been out for a bit and I have done a handful of ports of themes from 6 to 7 and rather than go through the in depth list of items to do on <a href="http://drupal.org/node/254940">Converting 6.x themes to 7.x</a> each time, for quick ports you can follow the list below.</p>
 <h2>Info file</h2>
