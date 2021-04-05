@@ -2,6 +2,7 @@
 layout: post
 title:  "Custom Drupal Breadcrumb for a cck content type"
 date:   2010-11-28 02:27:17 -0700
+permalink: /custom-drupal-breadcrumb-cck-content-type/
 ---
 
 
