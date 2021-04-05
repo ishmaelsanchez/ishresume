@@ -2,6 +2,7 @@
 layout: post
 title:  "User Login Block, Drupal 6"
 date:   2010-03-21 16:01:23 -0700
+permalink: /user-login-block-drupal-6/
 ---
 <p>While working on the <a href="/earthish">Earthish theme</a>, I wanted to theme the Drupal user login block. I did a quick Google search, but the results were not great. Many of the tutorials were about customizing the user form or customizing the login form on the user page. It was close, but that's not what I was looking for, I just wanted to theme just the login block. I did find some outdated examples, but the whole process was more challenging than I had expected. The steps below aim to simplify the process and help other Drupal themers.</p>
 
