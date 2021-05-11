@@ -28,7 +28,6 @@ linkedin_username: ishmaelsanchez
 github_username:  ishmaelsanchez
 twitter_username: ishmaelsanchez
 
-paginate: 5
 # Build settings
 theme: minima
 plugins:
