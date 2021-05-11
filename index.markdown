@@ -8,9 +8,9 @@ layout: home
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
+<h2>Test above content</h2>
   {{ content }}
-
+<h2>Test below content</h2>
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
