@@ -27,3 +27,5 @@ print_hi('Tom')
 
 Reducing maintance and comment moderation or consistent updates from content management systems like like Drupal and WordPress. It's simple Markdown, Liquid, HTML & CSS go in. Static sites come out ready for deployment. Create blogs with featurees like Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
 Intergrations with Github and Digital ocean
+
+Avoid dealing with complex or annoying hosting companies. GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub for free—custom domain name and all.
