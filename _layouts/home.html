@@ -20,7 +20,7 @@ layout: default
   {{ site.related_posts }}
    <p>Test below if</p>
 {% endif %}
-  {%- if posts.size > 0 -%}
+  {%- if posts.size > 0 limit:5 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
