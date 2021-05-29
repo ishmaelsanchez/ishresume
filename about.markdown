@@ -16,7 +16,7 @@ permalink: /about/
 <h3>Web, Drupal and open source work</h3>
 <p> I've worked as a freelance web designer/developer. During that time, my work was focused on creating web standard-compliant sites, quality designs with open sources tools and technology. I've created websites using Drupal, Jekyll, WordPress and Dreamweaver. 
    
-<p> I've designed and developed 100's of Drupal-based sites. I'm a Drupal enthusiast and Drupal theme contributor. I designed and created the <a href="http://drupal.org/project/ishalist">Ishalist</a> and <a href="/earthish">Earthish</a>  Drupal themes. Additionally, I've maintained the <a href="http://drupal.org/project/aberdeen">Aberdeen</a> and <a href="http://drupal.org/project/decayed">Decayed</a> themes.</p>
+<p> I've designed and developed 100's of Drupal-based sites. I'm a Drupal enthusiast and Drupal theme contributor. I designed and created the <a href="https://www.drupal.org/project/zurb_foundation ">Zurb Foundation</a>, <a href="http://drupal.org/project/ishalist">Ishalist</a> and <a href="/earthish">Earthish</a> Drupal themes. Additionally, I've maintained the <a href="http://drupal.org/project/aberdeen">Aberdeen</a> and <a href="http://drupal.org/project/decayed">Decayed</a> themes.</p>
 
 <h3>Affiliations</h3>
 <a href="https://www.drupal.org/user/464624" title="View my association page"><img src="/img/drupal-individual-member.png" title="Drupal Individual Member" alt="Drupal Individual Member" /></a>
