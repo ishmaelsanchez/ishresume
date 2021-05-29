@@ -14,12 +14,7 @@ layout: default
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}
-{%- if posts.size -%}
-  <p>Test above if</p>
-  {{ posts.size }}
-  {{ site.related_posts }}
-   <p>Test below if</p>
-{% endif %}
+
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
