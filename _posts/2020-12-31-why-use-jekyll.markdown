@@ -25,3 +25,5 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+Reducing maintance and updates from CSM like Drupal and WP
+Intergrations with Github and Digital ocean
