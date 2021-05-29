@@ -14,7 +14,7 @@ layout: default
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}
-
+{%-  posts.size -%}
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
