@@ -4,7 +4,7 @@ title: Portfolio
 description: Involved in nearly every aspect of web site/application creation from project kick-off meetings, client interaction, design and architecture, development, deployment, management, platform development, scaling, training and support.
 permalink: /portfolio/
 ---
-<p>I have been involved in nearly every aspect of web site/application creation from project kick-off meetings, client interaction, design and architecture, development, deployment, management, training and support. I've served as the lead for multiple concurrent projects many times over. 20+ years of supervisory experience. 15+ years developing for the Internet. 10+ year of project management experience. </p>
+<p>I have been involved in nearly every aspect of web site/application creation from project kick-off meetings, client interaction, design and architecture, development, deployment, management, training and support. I've served as the lead for multiple concurrent projects many times over. 20+ years of supervisory experience. 15+ years developing for the Internet. 10+ year of project management experience. <a href="https://www.linkedin.com/feed/">More information on LinkedIn >></a> </p>
 
 <p>Listed below is a sampling of some the companies and projects I've been involved with during my career:</p>
 <ul>
@@ -31,6 +31,6 @@ permalink: /portfolio/
    </ul>
  </li>
  <li>Small business websites: for artists (bands, photographers, actors) using open source technologies</li>
- <li>Independent contracting for 5 years </li>
+ <li>Independent contractor for 5+ years </li>
  <li>Ninjitsu Web Development, lead a small team of contractors on top of doing development. Business development and client management.</li>
 </ul>
