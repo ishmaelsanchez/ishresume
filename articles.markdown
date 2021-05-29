@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Articles
 description:  General tips about web development and design that may be helpful to anyone with a website.
 permalink: /articles/
