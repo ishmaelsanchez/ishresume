@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Creating layouts and using them on jekyll
+title: Creating layouts and using them on Jekyll
 permalink: /creating-using-layouts-jekyll/
 date: 2021-05-29 7:49:19 -0700
 ---
+<p>Jekyll helps you in creating full featured websites without all the maintanance and complexity of traditional content manage systems and their hosting requirements. It strikes a good balance of functionality, quick content creation and easy hosting. I don't want to discuss all the benefits of Jekyll as there are many posts discussing that subject. I want to focus on is how you to</p>
+
 <p>If you want a piece of content to use a different layout you can define it in the </p>
 layout: home
 
