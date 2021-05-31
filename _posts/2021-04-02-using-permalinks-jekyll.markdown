@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using permalinks in jekyll for SEO friendly URLs
+title: Using permalinks in Jekyll for SEO friendly URLs
 permalink: /using-permalinks-jekyll/
 date: 2021-04-02 18:49:19 -0700
 ---
