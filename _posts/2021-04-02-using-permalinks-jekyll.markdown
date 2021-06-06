@@ -25,7 +25,7 @@ permalink: /using-permalinks-jekyll/
 ---
 {% endhighlight %}
 
-<p>Jekyll makes it easy to customize your URL structure. You can define exactly what we want the URL to be on page or post basis based on our needs. </p>
+<p>Jekyll makes it easy to customize your URL structure. You can define exactly what you want the URL to be on a page or post basis based on your needs. </p>
 
 
 
