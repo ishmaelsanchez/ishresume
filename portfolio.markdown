@@ -17,7 +17,9 @@ permalink: /portfolio/
  <li>Enterprise websites and systems for: 
    <ul>
      <li>GDC conference</li>
+    <li>Dark Reading</li>
      <li>Interop</li>
+        <li>Gamasutra</li>
      <li>Catersource</li>
      <li>CPhI North America</li>
      <li>Enterprise Connect</li>
