@@ -12,34 +12,13 @@ On top of regular patching, another common issue with websites platforms is code
 
 Hosting is another common issue with websites. While most hosting is relatively inexpensive, it can be a pain to deal with the complexity from different hosting environments and regardless it's an added responsiblity. Jekyll has an advantage here in its simplicity. GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub. Additionally, you can use a custom domain name. Also, there are intergrations with Github and hosting providers like Digital ocean.
 
+Jekyll isn't perfect and you'll have to assess the needs of your project and post project maintenance. However, it's something to consider if you need to create mostly static sites, brochure sites or simple blogs. Create a blog with featurees like Permalinks, categories or leverage custom layouts in your static or brochure websites. Jekyll does have some quirks like it requires blog post files to be named according to the following format:
+
+'YEAR-MONTH-DAY-title.MARKUP'
+
+However, you can be clever and <a href="/using-permalinks-jekyll/">refine the Jekyll permalink</a> for a friendly URL structure for SEO or elminate the need for 301 redirects. Nevertheless, Jekyll requires very little effort and simple to use. Easy to write markup goes in and static sites come out waiting to be deployed.
 
 
-You can create simple blogs, for example this post lives in the
-
-
-
-
-
-Jekyll does have some quirks like it requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-However, you can be clever and <a href="/using-permalinks-jekyll/">refine the Jekyll permalink</a> for a friendly URL structure for SEO or to reduce the need for 301 redirects
-
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-It's simple Markdown, Liquid, HTML & CSS go in. Static sites come out ready for deployment. Create blogs with featurees like Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
 
 
 
