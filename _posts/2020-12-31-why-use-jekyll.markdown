@@ -12,11 +12,11 @@ On top of regular patching, another common issue with websites platforms is code
 
 Hosting is another common issue with websites. While most hosting is relatively inexpensive, it can be a pain to deal with the complexity from different hosting environments and regardless it's an added responsiblity. Jekyll has an advantage here in its simplicity. GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub. Additionally, you can use a custom domain name. Also, there are intergrations with Github and hosting providers like Digital ocean.
 
-Jekyll isn't perfect and you'll have to assess the needs of your project and post project maintenance. However, it's something to consider if you need to create mostly static sites, brochure sites or simple blogs. Create a blog with featurees like Permalinks, categories or leverage custom layouts in your static or brochure websites. Jekyll does have some quirks like it requires blog post files to be named according to the following format:
+Jekyll isn't perfect and you'll have to assess the needs of your project and post project maintenance. However, it's something to consider if you need to create mostly static sites, brochure sites or simple blogs. You can create a blog with featurees like permalinks and categories or leverage custom layouts in your static or brochure websites. Jekyll does have some quirks like it requires blog post files to be named according to the following format:
 
 'YEAR-MONTH-DAY-title.MARKUP'
 
-However, you can be clever and <a href="/using-permalinks-jekyll/">refine the Jekyll permalink</a> for a friendly URL structure for SEO or elminate the need for 301 redirects. Nevertheless, Jekyll requires very little effort and simple to use. Easy to write markup goes in and static sites come out waiting to be deployed.
+However, you can be clever and <a href="/using-permalinks-jekyll/">refine the Jekyll permalink</a> for a friendly URL structure to help with SEO or elminate the need for 301 redirects. Nevertheless, Jekyll requires very little effort and is simple to use. Easy to write markup goes in and static sites come out waiting to be deployed.
 
 
 
