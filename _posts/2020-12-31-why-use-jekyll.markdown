@@ -3,8 +3,22 @@ layout: post
 title:  "Why use Jekyll for your website?"
 date:   2020-12-31 13:14:24 -0400
 ---
-As a web developer building website is easy. The problems then is maintain all your websites. Maintance
-You can create simple blogs, for example this post lives in the `_posts` directory. I can edit the the post, re-build the site the changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+As a web developer (or not) building websites is easy. The thing is once you create a website that's just the start of the project NOT the end. The technology you choose to build your website should be based on a variety of diffrent factors. One important consideration should always be trying to reduce effort. The problem with websites lie in maintaining many websites. When the number of sites you manages is in the dozens or hundreds this maintenance becomes a burden. This is where using a static site generator like Jekyll can help you. 
+
+
+Many devlopers use open source software like Drupal, WordPress, Joomla, TYPO3, etc. If your website is powered by one of these technologies you'll have to regularly apply updates and/or security patches. While there are solutions like Pagely's automatic updates of WordPress nothing is fool proof (i.e. updates could break custom code thus causing rework of existing functionality). Jekyll doesn't require regular codebase updates or security patches because your website is generated and output as HTML and CSS.
+
+On top of regular patching, another common issue with websites platforms is code bloat. Using add-ons, plugins or modules while they add functionality, they often add large amounts of HTML markup, JavaScript and CSS to your website pages. This in turn increases page load and slows down the rendering of your website. While you can strip out some of this code, often it's not trivial (i.e. overriding theme functions in Drupal). Jekyll wins here again since outputs simple markup without all the hassle. 
+
+Hosting is another common issue with websites. While most hosting is relatively inexpensive, it can be a pain to deal with the complexity from different hosting environments and regardless it's an added responsiblity. Jekyll has an advantage here in its simplicity. GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub. Additionally, you can use a custom domain name. Also, there are intergrations with Github and hosting providers like Digital ocean.
+
+
+
+You can create simple blogs, for example this post lives in the
+
+
+
+
 
 Jekyll does have some quirks like it requires blog post files to be named according to the following format:
 
@@ -25,7 +39,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Reducing maintance and comment moderation or consistent updates from content management systems like like Drupal and WordPress. It's simple Markdown, Liquid, HTML & CSS go in. Static sites come out ready for deployment. Create blogs with featurees like Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
-Intergrations with Github and Digital ocean
+It's simple Markdown, Liquid, HTML & CSS go in. Static sites come out ready for deployment. Create blogs with featurees like Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
 
-Avoid dealing with complex or annoying hosting companies. GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub for free—custom domain name and all.
+
+
