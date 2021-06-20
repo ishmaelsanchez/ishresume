@@ -18,7 +18,7 @@ On top of these benefits there are many others which I've passed over. However, 
 
 1. Fees, subscriptions and then % of transactions, can get expensive and eat into revenue 
 2. Only basic functionality, anything custom will either require purchasing a subscription (which cuts into profits) or again requires a developer to build the functionality
-3. Liquid templating language, while it's not difficult it's not HTML/CSS/JS or as simple as using Jekyll.
+3. Liquid templating language, while it's not difficult it's not HTML/CSS/JS or as simple as <a href="/2020/12/31/why-use-jekyll.html">using Jekyll</a>.
 
 So factor this into your next ecommerce decision and see if you can get started and prove your concept with Shopify then scale into something more complicated if necessary.
 
