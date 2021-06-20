@@ -13,7 +13,7 @@ Recently, I've been able to launch 2 shopify sites in few days with minimal effo
 2. Developer eco-system for custom functionality
 3. Compliance, security and hosting built in to the product along with an attractive price point
 4. Decent image editing tools
-5. Prep built templates which can easily be customized by someone with any technicial kills
+5. Pre-built templates which can easily be customized by someone with any technicial kills
 
 On top of these benefits there are many others which I've passed over. However, no solution is perfect and like most things in life, will require a tradeoff. Some downsides to using Shopify are
 
