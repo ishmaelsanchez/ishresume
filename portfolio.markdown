@@ -13,6 +13,9 @@ permalink: /portfolio/
  <li>Manage costs associated with the outsourcing contracts for 2019-2021 of upwards of 1.5 million US. Involved in contract negotiations, accountability and oversight.
 </li>
  <li>Employed by FTSE 250 listed UBM. Marketing events and media platform development for North America using Drupal</li>
+ <li>Gap analysis for existing products verse business needs</li>
+ <li>Product, platform and vendor assessments</li>
+ <li>Support and develop budgets for transformation projects and on-going BAU</li>
  <li>Agile sprint team development: improving velocity and team output</li>
  <li>Enterprise websites and systems for: 
    <ul>
