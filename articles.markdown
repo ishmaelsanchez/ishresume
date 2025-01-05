@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Articles
-description:  General tips about web development and design that may be helpful to anyone with a website.
+description:  Tips on web development or design that may be helpful to anyone with a website.
 permalink: /articles/
 ---
 <p>From time to time I've posted ideas and general tips about web development and design that may be helpful to anyone with a website. It's also been
