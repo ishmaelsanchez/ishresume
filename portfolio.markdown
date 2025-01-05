@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Portfolio
-description: Involved in nearly every aspect of web site/application creation from project kick-off meetings, client interactions, development, deployment, management, platform development, scaling, training & support.
+description: Mergers and acquisitions (M&A) integration specialist. Assist in the transaction for the purchase, sale, merger or takeover of companies
 permalink: /portfolio/
 ---
 <p>I have been involved in nearly every aspect of web site/application creation from project kick-off meetings, client interaction, design and architecture, development, deployment, management, training and support. I've served as the lead for multiple concurrent projects many times over. 20+ years of supervisory experience. 15+ years developing for the Internet. 10+ year of project management experience. <a href="/about/" title="Learn more about Ishmael Sanchez">Learn more Ishmael</a> and his experience or <a title="Contact Ishmael" href="/contact/">contact me</a>. <a href="https://www.linkedin.com/in/ishmaelsanchez/" title="Ishmael Sanchez's LinkedIn profile">More information on LinkedIn >></a>.</p>
 
 <p>Listed below is a sampling of some the companies and projects I've been involved with during my career:</p>
 <ul>
+ <li>Work for FTSE 50-listed and World’s largest exhibition operator, <a href="https://www.informa.com/">Informa</a>. Mergers and acquisitions (M&A) integration specialist. Assist in the transaction for the purchase, sale, merger or takeover of companies on behalf of Informa.
+</li>
  <li>Work for FTSE 100-listed and World’s biggest exhibition operator, <a href="https://www.informamarkets.com">Informa Markets</a>. Global tradeshow website platform development and management, global media/publication platform development, directory listing system maintenance.
 </li>
  <li>Manage costs associated with the outsourcing contracts for 2019-2021 of upwards of 1.5 million US. Involved in contract negotiations, accountability and oversight.
