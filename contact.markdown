@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: Lead for multiple concurrent projects. Involved in all stages of web site/application creation from project meetings, client interaction, design and architecture, development, deployment, management, training and support.
+description: Lead for multiple concurrent web projects. Involved in all stages of web site/application creation from client kick-off call, deployment and post deployment support.
 permalink: /contact/
 ---
 <p>Fill out the form below to get started. Not ready yet? Learn more about <a title="See more about Ishmae's management experience" href="/about">my background in management, leadership and development</a> or <a href="/portfolio/" title="Learn more about Ishmael's work history">learn more about some of the work I've done during my career</a>.
