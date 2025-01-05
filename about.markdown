@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Over a decade of software development management experience. In-house teams, In-house remote teams, offshore, offshore landed, in-office contractors, remote contractors. I'm an authority on development restructuring, technology standardization, large scale migrations, outsourcing and change and transformation management.
+description: Transformation management Software development management experience. In-house teams, remote teams, offshore, remote contractors. Development restructuring, technology standardization, large scale migrations
 permalink: /about/
 ---
 <p>Over a decade of software development management experience. In-house teams, In-house remote teams (multiple time zones), offshore, offshore landed, in-office contractors, remote contractors, etc. I've managed it all. I've grown teams from 2 developers to over a dozen. I specialize in team management, optimization and high performance. I keep teams on track and on focus.</p> <p>I've played a key role in multiple successful product launches, which also entailed scaling platforms and solutions across different enterprise groups or environments. Experienced in a wide range of projects with various cross functional groups, which include process improvement (Waterfall to Agile, Scrum, Kanban), customer experience improvements (UI/UX), technology modernizations, Tier 1 support, development capacity planning and projection, efficiency improvements, sustainable operating cost reductions, transformation projects with global teams and moving teams to a more data driven mindset.</p>
