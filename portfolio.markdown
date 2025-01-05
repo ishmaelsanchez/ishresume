@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-description: Involved in nearly every aspect of web site/application creation from project kick-off meetings, client interaction, design and architecture, development, deployment, management, platform development, scaling, training and support.
+description: Involved in nearly every aspect of web site/application creation from project kick-off meetings, client interactions, development, deployment, management, platform development, scaling, training & support.
 permalink: /portfolio/
 ---
 <p>I have been involved in nearly every aspect of web site/application creation from project kick-off meetings, client interaction, design and architecture, development, deployment, management, training and support. I've served as the lead for multiple concurrent projects many times over. 20+ years of supervisory experience. 15+ years developing for the Internet. 10+ year of project management experience. <a href="/about/" title="Learn more about Ishmael Sanchez">Learn more Ishmael</a> and his experience or <a title="Contact Ishmael" href="/contact/">contact me</a>. <a href="https://www.linkedin.com/in/ishmaelsanchez/" title="Ishmael Sanchez's LinkedIn profile">More information on LinkedIn >></a>.</p>
